@@ -1,0 +1,17 @@
+form{
+  width: 31.25rem;
+  margin: 1.875rem auto;
+  text-align: center;
+}
+
+form input {
+  margin-bottom: .3125rem;
+}
+
+form input[type='button']{
+  margin-right: .3125rem;
+}
+
+.markdo {
+  background-color: cyan;
+}
